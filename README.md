@@ -1,6 +1,6 @@
-# Projeto Automação de Site com pyautogui  🔥
+# Automação de site simples
 
-A automação foi feita para um usuário fazer o cadastro de nomes (manualmente) e então emitir alertas. Depois, baixar os arquivos necessários e então perguntar pro usuário se deseja continuar a automação.
+Automação em um site teste para aprendizado. 
 
 ## Tecnologias usadas 📜
 
